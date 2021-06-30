@@ -1,6 +1,6 @@
 package dia0;
 
-public class hello {
+public class Hello {
 
     public static void main(String[] args) {
 
